@@ -1,0 +1,4 @@
+mysql=com.github.ltsopensource.biz.logger.mysql.MysqlJobLoggerFactory
+oracle=com.github.ltsopensource.biz.logger.oracle.OraclelJobLoggerFactory
+mongo=com.github.ltsopensource.biz.logger.mongo.MongoJobLoggerFactory
+console=com.github.ltsopensource.biz.logger.console.ConsoleJobLoggerFactory
